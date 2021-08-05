@@ -1,0 +1,10 @@
+numpy==1.19.5
+opencv-contrib-python-headless
+Pillow==8.2.0
+streamlit==0.84.0
+tensorflow==2.4.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+pydub==0.25.1
+aiortc==1.2.1
+streamlit-webrtc==0.23.10
